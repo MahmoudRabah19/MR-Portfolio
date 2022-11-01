@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MR-Portfolio/static/css/main.dbd213a6.css",
+    "main.js": "/MR-Portfolio/static/js/main.c0577642.js",
+    "static/media/quote.PNG": "/MR-Portfolio/static/media/quote.d38d96a09d3f867c3a52.PNG",
+    "static/media/ventaPOS.png": "/MR-Portfolio/static/media/ventaPOS.cea626a1bd6eb5a454b3.png",
+    "static/media/MR-LOGO.png": "/MR-Portfolio/static/media/MR-LOGO.3f828d1cd2484e4201b3.png",
+    "static/media/aws.png": "/MR-Portfolio/static/media/aws.7c5f34b5a4c1f5f9dc10.png",
+    "static/media/bg.jpeg": "/MR-Portfolio/static/media/bg.b6b16bc25234c92ee162.jpeg",
+    "static/media/react.png": "/MR-Portfolio/static/media/react.4127b36258b5e9dc8f88.png",
+    "static/media/Ruby.png": "/MR-Portfolio/static/media/Ruby.c7fbe9fb093b34723c46.png",
+    "static/media/nodejs.png": "/MR-Portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/tvs.png": "/MR-Portfolio/static/media/tvs.606290f1d40b63bbcf0f.png",
+    "static/media/java.png": "/MR-Portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/html.png": "/MR-Portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/js.png": "/MR-Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/MR-Portfolio/index.html",
+    "main.dbd213a6.css.map": "/MR-Portfolio/static/css/main.dbd213a6.css.map",
+    "main.c0577642.js.map": "/MR-Portfolio/static/js/main.c0577642.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbd213a6.css",
+    "static/js/main.c0577642.js"
+  ]
+}
